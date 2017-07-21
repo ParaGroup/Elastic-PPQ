@@ -1,0 +1,13 @@
+#dataset power_adaptive power_static
+"RW-DS" 78 100
+"MAP I=1K" 92 100
+"MAP I=2K" 91 100
+"MAP I=3K" 90 100
+"MAP I=4K" 91 100
+"SS H=0.6" 86 100
+"SS H=0.7" 88 100
+"SS H=0.8" 85 100
+"Game1" 79 100
+"Game2" 81 100
+"Game3" 80 100
+"Game4" 85 100

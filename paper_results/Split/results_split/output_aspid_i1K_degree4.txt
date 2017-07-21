@@ -1,0 +1,103 @@
+The frequency of the CPU is 1300 Mhz
+Insert the PLQ utilization factor setpoint [close to 1]: Chosen setpoint is: 0.9
+Window parameters [wp: 10; sp: 1; pane length: 100 ms], dimensions per tuple: 8
+Starting pipeline (Skyline Query)...
+Connection from Generator: OK
+[CLIENT] Time:    0.00, Started!
+   |-->[CONTROLLER] Time:    2.50, control step [  0], PLQ [rho: [31m  5.51[0m, split: [1m[33m1.95[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:    5.00, control step [  1], PLQ [rho: [31m  4.63[0m, split: [1m[33m3.92[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:    7.50, control step [  2], PLQ [rho: [31m  2.87[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   10.01, control step [  3], PLQ [rho: [31m  2.06[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   10.03, recv panes [[36m 29[0m], results (x partition) [avg:  1051.87; std:   492.11], results (x pane) [avg:  2749.55], closing delay [avg:  146259.40 us], latency [avg: 5428749.23 us]
+   |-->[CONTROLLER] Time:   12.51, control step [  4], PLQ [rho: [31m  1.75[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   15.01, control step [  5], PLQ [rho: [31m  1.69[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   17.51, control step [  6], PLQ [rho: [31m  2.04[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   20.01, control step [  7], PLQ [rho: [31m  1.57[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   20.04, recv panes [[36m 53[0m], results (x partition) [avg:   838.13; std:   226.84], results (x pane) [avg:  3312.68], closing delay [avg:   64811.92 us], latency [avg: 9508690.48 us]
+   |-->[CONTROLLER] Time:   22.51, control step [  8], PLQ [rho: [31m  2.41[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   25.02, control step [  9], PLQ [rho: [31m  2.13[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   27.52, control step [ 10], PLQ [rho: [31m  2.04[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   30.02, control step [ 11], PLQ [rho: [31m  1.70[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   30.14, recv panes [[36m 55[0m], results (x partition) [avg:   811.79; std:   228.49], results (x pane) [avg:  3256.95], closing delay [avg:   52244.04 us], latency [avg: 14654877.37 us]
+   |-->[CONTROLLER] Time:   32.52, control step [ 12], PLQ [rho: [31m  1.94[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   35.02, control step [ 13], PLQ [rho: [31m  2.00[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   37.52, control step [ 14], PLQ [rho: [31m  1.71[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   40.02, control step [ 15], PLQ [rho: [31m  1.87[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   40.19, recv panes [[36m 60[0m], results (x partition) [avg:   800.59; std:   181.05], results (x pane) [avg:  3211.70], closing delay [avg:   51010.09 us], latency [avg: 18801408.42 us]
+   |-->[CONTROLLER] Time:   42.53, control step [ 16], PLQ [rho: [31m  1.93[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   45.03, control step [ 17], PLQ [rho: [31m  2.47[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   47.53, control step [ 18], PLQ [rho: [31m  2.53[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   50.03, control step [ 19], PLQ [rho: [31m  2.28[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   50.20, recv panes [[36m 38[0m], results (x partition) [avg:   931.79; std:   244.63], results (x pane) [avg:  3667.82], closing delay [avg:   71072.72 us], latency [avg: 23195650.33 us]
+   |-->[CONTROLLER] Time:   52.53, control step [ 20], PLQ [rho: [31m  1.83[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   55.03, control step [ 21], PLQ [rho: [31m  2.02[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   57.53, control step [ 22], PLQ [rho: [31m  2.18[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   60.04, control step [ 23], PLQ [rho: [31m  1.97[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   60.21, recv panes [[36m 46[0m], results (x partition) [avg:   885.70; std:   260.04], results (x pane) [avg:  3571.04], closing delay [avg:   63052.89 us], latency [avg: 29606086.71 us]
+   |-->[CONTROLLER] Time:   62.54, control step [ 24], PLQ [rho: [31m  2.04[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   65.04, control step [ 25], PLQ [rho: [31m  2.26[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   67.54, control step [ 26], PLQ [rho: [31m  2.23[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   70.04, control step [ 27], PLQ [rho: [31m  2.46[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   70.23, recv panes [[36m 45[0m], results (x partition) [avg:   880.62; std:   246.74], results (x pane) [avg:  3500.31], closing delay [avg:   69515.71 us], latency [avg: 34878022.42 us]
+   |-->[CONTROLLER] Time:   72.54, control step [ 28], PLQ [rho: [31m  1.96[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   75.05, control step [ 29], PLQ [rho: [31m  2.17[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   77.55, control step [ 30], PLQ [rho: [31m  1.95[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   80.05, control step [ 31], PLQ [rho: [31m  2.53[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   80.25, recv panes [[36m 48[0m], results (x partition) [avg:   838.65; std:   227.63], results (x pane) [avg:  3341.19], closing delay [avg:   64432.21 us], latency [avg: 40158363.73 us]
+   |-->[CONTROLLER] Time:   82.55, control step [ 32], PLQ [rho: [31m  2.42[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   85.05, control step [ 33], PLQ [rho: [31m  2.14[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   87.55, control step [ 34], PLQ [rho: [31m  1.91[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   90.05, control step [ 35], PLQ [rho: [31m  1.91[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:   90.28, recv panes [[36m 46[0m], results (x partition) [avg:   874.83; std:   247.49], results (x pane) [avg:  3565.72], closing delay [avg:   66373.14 us], latency [avg: 46059391.68 us]
+   |-->[CONTROLLER] Time:   92.56, control step [ 36], PLQ [rho: [31m  1.99[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   95.06, control step [ 37], PLQ [rho: [31m  2.21[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:   97.56, control step [ 38], PLQ [rho: [31m  2.13[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  100.06, control step [ 39], PLQ [rho: [31m  2.10[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:  100.34, recv panes [[36m 44[0m], results (x partition) [avg:   913.94; std:   201.90], results (x pane) [avg:  3587.34], closing delay [avg:   65594.33 us], latency [avg: 50760476.45 us]
+   |-->[CONTROLLER] Time:  102.56, control step [ 40], PLQ [rho: [31m  2.52[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  105.06, control step [ 41], PLQ [rho: [31m  1.77[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  107.57, control step [ 42], PLQ [rho: [31m  2.03[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  110.07, control step [ 43], PLQ [rho: [31m  1.89[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:  110.38, recv panes [[36m 52[0m], results (x partition) [avg:   835.47; std:   226.09], results (x pane) [avg:  3372.92], closing delay [avg:   56291.31 us], latency [avg: 56993723.71 us]
+   |-->[CONTROLLER] Time:  112.57, control step [ 44], PLQ [rho: [31m  1.92[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  115.07, control step [ 45], PLQ [rho: [31m  2.11[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  117.57, control step [ 46], PLQ [rho: [31m  1.88[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  120.07, control step [ 47], PLQ [rho: [31m  1.88[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:  120.40, recv panes [[36m 52[0m], results (x partition) [avg:   837.68; std:   214.43], results (x pane) [avg:  3348.44], closing delay [avg:   59058.34 us], latency [avg: 61091466.46 us]
+   |-->[CONTROLLER] Time:  122.57, control step [ 48], PLQ [rho: [31m  1.79[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  125.08, control step [ 49], PLQ [rho: [31m  1.91[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+   |-->[CONTROLLER] Time:  127.58, control step [ 50], PLQ [rho: [31m  1.84[0m, split: [1m[33m4.00[0m], WLQ [rho: [1m[32m  0.00[0m, p_tasks: 0, idle_ratio: 0] -- PLQ Workers [4] 
+[CLIENT] Time:  130.49, recv panes [[36m 52[0m], results (x partition) [avg:   834.25; std:   239.85], results (x pane) [avg:  3334.94], closing delay [avg:   57791.20 us], latency [avg: 65948665.27 us]
+[CLIENT] Time:  140.50, recv panes [[36m 46[0m], results (x partition) [avg:   872.99; std:   227.37], results (x pane) [avg:  3489.46], closing delay [avg:   72788.44 us], latency [avg: 71528358.64 us]
+[CLIENT] Time:  150.56, recv panes [[36m 40[0m], results (x partition) [avg:   935.45; std:   222.55], results (x pane) [avg:  3742.52], closing delay [avg:   81145.77 us], latency [avg: 77020923.96 us]
+[CLIENT] Time:  160.62, recv panes [[36m 45[0m], results (x partition) [avg:   896.62; std:   227.96], results (x pane) [avg:  3574.09], closing delay [avg:   75371.77 us], latency [avg: 82797950.85 us]
+[CLIENT] Time:  170.64, recv panes [[36m 43[0m], results (x partition) [avg:   901.51; std:   241.69], results (x pane) [avg:  3639.23], closing delay [avg:   74172.48 us], latency [avg: 88370337.47 us]
+[CLIENT] Time:  180.68, recv panes [[36m 44[0m], results (x partition) [avg:   901.14; std:   237.26], results (x pane) [avg:  3580.43], closing delay [avg:   77109.94 us], latency [avg: 94225778.43 us]
+[CLIENT] Time:  190.75, recv panes [[36m 52[0m], results (x partition) [avg:   850.00; std:   194.52], results (x pane) [avg:  3424.37], closing delay [avg:   68357.31 us], latency [avg: 99458244.01 us]
+[CLIENT] Time:  200.75, recv panes [[36m 49[0m], results (x partition) [avg:   858.49; std:   203.44], results (x pane) [avg:  3435.12], closing delay [avg:   62614.44 us], latency [avg: 104511743.70 us]
+[CLIENT] Time:  210.84, recv panes [[36m 49[0m], results (x partition) [avg:   857.20; std:   227.86], results (x pane) [avg:  3432.37], closing delay [avg:   68897.96 us], latency [avg: 109797501.26 us]
+[CLIENT] Time:  220.86, recv panes [[36m 43[0m], results (x partition) [avg:   907.41; std:   194.19], results (x pane) [avg:  3687.44], closing delay [avg:   69384.82 us], latency [avg: 114813193.88 us]
+[CLIENT] Time:  230.88, recv panes [[36m 51[0m], results (x partition) [avg:   844.22; std:   245.16], results (x pane) [avg:  3312.04], closing delay [avg:   65814.81 us], latency [avg: 119905422.28 us]
+[CLIENT] Time:  240.93, recv panes [[36m 45[0m], results (x partition) [avg:   895.73; std:   229.80], results (x pane) [avg:  3595.87], closing delay [avg:   69540.73 us], latency [avg: 125427754.83 us]
+[CLIENT] Time:  251.01, recv panes [[36m 49[0m], results (x partition) [avg:   876.14; std:   202.90], results (x pane) [avg:  3517.08], closing delay [avg:   69343.36 us], latency [avg: 131531273.41 us]
+[CLIENT] Time:  261.06, recv panes [[36m 51[0m], results (x partition) [avg:   834.54; std:   246.84], results (x pane) [avg:  3333.41], closing delay [avg:   65492.67 us], latency [avg: 136107916.60 us]
+[CLIENT] Time:  269.76, recv panes [[36m 44[0m], results (pane ins.) [avg:   867.32; std:   211.94], results (pane) [avg:  3464.80], closing delay [avg:   83743.23 us], latency [avg: 141120134.46 us]
+********************************PLQ statistics********************************
+Dropped: 1173/10000000 tuples
+Average splitting factor: 3.96459
+No. of punctuations transmitted: 7368
+******************************************************************************
+*****************************Controller statistics****************************
+No. of reconfigurations: 0
+Average utilization factor (PLQ): 2.18488
+Average no. of PLQ workers: 4
+Average utilization factor (WLQ): 0
+Average no. of WLQ workers: 0
+******************************************************************************
+*******************************Final statistics*******************************
+Received: 4.71163 panes/sec, total 1271 panes
+Average closing delay per pane: 68319.6 us
+Average latency per pane: 72593.2 ms
+Results per pane: avg 3443.9, std 880.395
+******************************************************************************
+...done

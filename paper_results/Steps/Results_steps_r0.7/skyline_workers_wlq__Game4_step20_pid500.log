@@ -1,0 +1,236 @@
+****************WLQ worker 16****************
+Received WLQ tasks: 355
+Average no. of tuples in the results set of a window: 5678.68
+Average processing time per WLQ task (us): 456804
+****************WLQ worker 23****************
+Received WLQ tasks: 287
+Average no. of tuples in the results set of a window: 5603.7
+Average processing time per WLQ task (us): 343457
+****************WLQ worker 36****************
+Received WLQ tasks: 310
+Average no. of tuples in the results set of a window: 5531.94
+Average processing time per WLQ task (us): 413269
+****************WLQ worker 40****************
+Received WLQ tasks: 332
+Average no. of tuples in the results set of a window: 5437.58
+Average processing time per WLQ task (us): 378762
+****************WLQ worker 48****************
+Received WLQ tasks: 261
+Average no. of tuples in the results set of a window: 5488.57
+Average processing time per WLQ task (us): 422917
+****************WLQ worker 52****************
+Received WLQ tasks: 245
+Average no. of tuples in the results set of a window: 5531.79
+Average processing time per WLQ task (us): 413741
+****************WLQ worker 53****************
+Received WLQ tasks: 251
+Average no. of tuples in the results set of a window: 5498.19
+Average processing time per WLQ task (us): 432988
+****************WLQ worker 55****************
+Received WLQ tasks: 242
+Average no. of tuples in the results set of a window: 5482.61
+Average processing time per WLQ task (us): 413116
+****************WLQ worker 49****************
+Received WLQ tasks: 253
+Average no. of tuples in the results set of a window: 5434.85
+Average processing time per WLQ task (us): 435517
+****************WLQ worker 14****************
+Received WLQ tasks: 381
+Average no. of tuples in the results set of a window: 5698.47
+Average processing time per WLQ task (us): 410573
+****************WLQ worker 13****************
+Received WLQ tasks: 368
+Average no. of tuples in the results set of a window: 5725.57
+Average processing time per WLQ task (us): 433524
+****************WLQ worker 17****************
+Received WLQ tasks: 358
+Average no. of tuples in the results set of a window: 5663.87
+Average processing time per WLQ task (us): 391465
+****************WLQ worker 42****************
+Received WLQ tasks: 265
+Average no. of tuples in the results set of a window: 5434.12
+Average processing time per WLQ task (us): 406261
+****************WLQ worker 10****************
+Received WLQ tasks: 402
+Average no. of tuples in the results set of a window: 5568.05
+Average processing time per WLQ task (us): 437636
+****************WLQ worker 41****************
+Received WLQ tasks: 342
+Average no. of tuples in the results set of a window: 5537.04
+Average processing time per WLQ task (us): 369493
+****************WLQ worker 29****************
+Received WLQ tasks: 285
+Average no. of tuples in the results set of a window: 5296
+Average processing time per WLQ task (us): 311380
+****************WLQ worker 34****************
+Received WLQ tasks: 247
+Average no. of tuples in the results set of a window: 5411.11
+Average processing time per WLQ task (us): 342361
+****************WLQ worker 0****************
+Received WLQ tasks: 275
+Average no. of tuples in the results set of a window: 5568.86
+Average processing time per WLQ task (us): 361853
+****************WLQ worker 1****************
+Received WLQ tasks: 269
+Average no. of tuples in the results set of a window: 5608
+Average processing time per WLQ task (us): 380741
+****************WLQ worker 4****************
+Received WLQ tasks: 370
+Average no. of tuples in the results set of a window: 5698
+Average processing time per WLQ task (us): 484292
+****************WLQ worker 27****************
+Received WLQ tasks: 297
+Average no. of tuples in the results set of a window: 5497.04
+Average processing time per WLQ task (us): 373057
+****************WLQ worker 31****************
+Received WLQ tasks: 257
+Average no. of tuples in the results set of a window: 5423.37
+Average processing time per WLQ task (us): 334941
+****************WLQ worker 21****************
+Received WLQ tasks: 271
+Average no. of tuples in the results set of a window: 5491.3
+Average processing time per WLQ task (us): 359182
+****************WLQ worker 22****************
+Received WLQ tasks: 285
+Average no. of tuples in the results set of a window: 5469.09
+Average processing time per WLQ task (us): 366882
+****************WLQ worker 45****************
+Received WLQ tasks: 264
+Average no. of tuples in the results set of a window: 5339.58
+Average processing time per WLQ task (us): 393146
+****************WLQ worker 46****************
+Received WLQ tasks: 262
+Average no. of tuples in the results set of a window: 5516.97
+Average processing time per WLQ task (us): 422755
+****************WLQ worker 39****************
+Received WLQ tasks: 327
+Average no. of tuples in the results set of a window: 5440.28
+Average processing time per WLQ task (us): 391845
+****************WLQ worker 56****************
+Received WLQ tasks: 241
+Average no. of tuples in the results set of a window: 5538.43
+Average processing time per WLQ task (us): 452164
+****************WLQ worker 2****************
+Received WLQ tasks: 416
+Average no. of tuples in the results set of a window: 5642.21
+Average processing time per WLQ task (us): 477319
+****************WLQ worker 24****************
+Received WLQ tasks: 262
+Average no. of tuples in the results set of a window: 5552.22
+Average processing time per WLQ task (us): 388033
+****************WLQ worker 57****************
+Received WLQ tasks: 248
+Average no. of tuples in the results set of a window: 5568.52
+Average processing time per WLQ task (us): 433123
+****************WLQ worker 47****************
+Received WLQ tasks: 256
+Average no. of tuples in the results set of a window: 5447.81
+Average processing time per WLQ task (us): 407545
+****************WLQ worker 37****************
+Received WLQ tasks: 333
+Average no. of tuples in the results set of a window: 5453.93
+Average processing time per WLQ task (us): 389598
+****************WLQ worker 38****************
+Received WLQ tasks: 331
+Average no. of tuples in the results set of a window: 5423.09
+Average processing time per WLQ task (us): 393446
+****************WLQ worker 51****************
+Received WLQ tasks: 259
+Average no. of tuples in the results set of a window: 5451.38
+Average processing time per WLQ task (us): 390352
+****************WLQ worker 43****************
+Received WLQ tasks: 243
+Average no. of tuples in the results set of a window: 5457.28
+Average processing time per WLQ task (us): 428465
+****************WLQ worker 44****************
+Received WLQ tasks: 266
+Average no. of tuples in the results set of a window: 5436.7
+Average processing time per WLQ task (us): 435032
+****************WLQ worker 54****************
+Received WLQ tasks: 250
+Average no. of tuples in the results set of a window: 5474.44
+Average processing time per WLQ task (us): 420121
+****************WLQ worker 15****************
+Received WLQ tasks: 391
+Average no. of tuples in the results set of a window: 5664.94
+Average processing time per WLQ task (us): 407755
+****************WLQ worker 12****************
+Received WLQ tasks: 0
+Average no. of tuples in the results set of a window: 0
+Average processing time per WLQ task (us): 0
+****************WLQ worker 50****************
+Received WLQ tasks: 245
+Average no. of tuples in the results set of a window: 5498.29
+Average processing time per WLQ task (us): 427251
+****************WLQ worker 20****************
+Received WLQ tasks: 289
+Average no. of tuples in the results set of a window: 5539.95
+Average processing time per WLQ task (us): 354739
+****************WLQ worker 19****************
+Received WLQ tasks: 319
+Average no. of tuples in the results set of a window: 5510.5
+Average processing time per WLQ task (us): 376001
+****************WLQ worker 18****************
+Received WLQ tasks: 321
+Average no. of tuples in the results set of a window: 5599.26
+Average processing time per WLQ task (us): 379473
+****************WLQ worker 7****************
+Received WLQ tasks: 428
+Average no. of tuples in the results set of a window: 5626.53
+Average processing time per WLQ task (us): 450419
+****************WLQ worker 8****************
+Received WLQ tasks: 315
+Average no. of tuples in the results set of a window: 5606.81
+Average processing time per WLQ task (us): 384527
+****************WLQ worker 9****************
+Received WLQ tasks: 407
+Average no. of tuples in the results set of a window: 5533.74
+Average processing time per WLQ task (us): 436652
+****************WLQ worker 25****************
+Received WLQ tasks: 315
+Average no. of tuples in the results set of a window: 5260.23
+Average processing time per WLQ task (us): 308378
+****************WLQ worker 11****************
+Received WLQ tasks: 396
+Average no. of tuples in the results set of a window: 5674.13
+Average processing time per WLQ task (us): 440654
+****************WLQ worker 5****************
+Received WLQ tasks: 143
+Average no. of tuples in the results set of a window: 5317.18
+Average processing time per WLQ task (us): 389457
+****************WLQ worker 6****************
+Received WLQ tasks: 429
+Average no. of tuples in the results set of a window: 5650.43
+Average processing time per WLQ task (us): 459671
+****************WLQ worker 26****************
+Received WLQ tasks: 284
+Average no. of tuples in the results set of a window: 5481.44
+Average processing time per WLQ task (us): 380147
+****************WLQ worker 30****************
+Received WLQ tasks: 264
+Average no. of tuples in the results set of a window: 5452.11
+Average processing time per WLQ task (us): 342069
+****************WLQ worker 35****************
+Received WLQ tasks: 327
+Average no. of tuples in the results set of a window: 5585.16
+Average processing time per WLQ task (us): 395580
+****************WLQ worker 33****************
+Received WLQ tasks: 231
+Average no. of tuples in the results set of a window: 5555.32
+Average processing time per WLQ task (us): 384919
+****************WLQ worker 3****************
+Received WLQ tasks: 265
+Average no. of tuples in the results set of a window: 5576.78
+Average processing time per WLQ task (us): 387960
+****************WLQ worker 28****************
+Received WLQ tasks: 272
+Average no. of tuples in the results set of a window: 5408.65
+Average processing time per WLQ task (us): 350490
+****************WLQ worker 32****************
+Received WLQ tasks: 237
+Average no. of tuples in the results set of a window: 5394.4
+Average processing time per WLQ task (us): 373880
+****************WLQ worker 58****************
+Received WLQ tasks: 566
+Average no. of tuples in the results set of a window: 5695.6
+Average processing time per WLQ task (us): 512448

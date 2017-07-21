@@ -1,0 +1,5 @@
+The frequency of the CPU is 1300 Mhz
+Insert the PLQ utilization factor setpoint [close to 1]: Chosen setpoint is: 0.7
+Window parameters [wp: 5; sp: 1; pane length: 200 ms], dimensions per tuple: 8
+Starting pipeline (Skyline Query)...
+Error: choose a correct value for the macros CONTROL_STEP_USEC and SAMPLING_ASPID_PLQ_USEC!

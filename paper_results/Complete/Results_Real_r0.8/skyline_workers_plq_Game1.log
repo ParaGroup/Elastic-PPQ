@@ -1,0 +1,354 @@
+********************************PLQ worker 2********************************
+Received tuples: 825132
+Received punctuations: 516
+Average deque size: 1.20349
+Average pane instances closed per punct.: 3.76699
+Average processing time per tuple (us): 114.224
+********************************PLQ worker 49********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 36********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 33********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 37********************************
+Received tuples: 15436
+Received punctuations: 22
+Average deque size: 0.227273
+Average pane instances closed per punct.: 1
+Average processing time per tuple (us): 117.609
+********************************PLQ worker 26********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 56********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 20********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 22********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 41********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 58********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 18********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 43********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 57********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 30********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 44********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 7********************************
+Received tuples: 54966
+Received punctuations: 84
+Average deque size: 0.357143
+Average pane instances closed per punct.: 1.29412
+Average processing time per tuple (us): 119.238
+********************************PLQ worker 27********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 34********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 38********************************
+Received tuples: 12166
+Received punctuations: 22
+Average deque size: 0.227273
+Average pane instances closed per punct.: 1
+Average processing time per tuple (us): 103.073
+********************************PLQ worker 53********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 10********************************
+Received tuples: 76903
+Received punctuations: 100
+Average deque size: 0.39
+Average pane instances closed per punct.: 1.5
+Average processing time per tuple (us): 112.283
+********************************PLQ worker 9********************************
+Received tuples: 46488
+Received punctuations: 79
+Average deque size: 0.417722
+Average pane instances closed per punct.: 1.33333
+Average processing time per tuple (us): 110.901
+********************************PLQ worker 6********************************
+Received tuples: 199880
+Received punctuations: 240
+Average deque size: 1.1875
+Average pane instances closed per punct.: 2.09756
+Average processing time per tuple (us): 110.896
+********************************PLQ worker 5********************************
+Received tuples: 623368
+Received punctuations: 394
+Average deque size: 1.29695
+Average pane instances closed per punct.: 3.87805
+Average processing time per tuple (us): 110.343
+********************************PLQ worker 51********************************
+Received tuples: 10727
+Received punctuations: 18
+Average deque size: 0.222222
+Average pane instances closed per punct.: 1
+Average processing time per tuple (us): 117.599
+********************************PLQ worker 24********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 11********************************
+Received tuples: 157037
+Received punctuations: 154
+Average deque size: 0.642857
+Average pane instances closed per punct.: 1.97143
+Average processing time per tuple (us): 118.645
+********************************PLQ worker 3********************************
+Received tuples: 207771
+Received punctuations: 211
+Average deque size: 0.957346
+Average pane instances closed per punct.: 1.88636
+Average processing time per tuple (us): 117.269
+********************************PLQ worker 4********************************
+Received tuples: 134365
+Received punctuations: 168
+Average deque size: 0.5
+Average pane instances closed per punct.: 1.75758
+Average processing time per tuple (us): 113.779
+********************************PLQ worker 0********************************
+Received tuples: 2124324
+Received punctuations: 1355
+Average deque size: 1.87454
+Average pane instances closed per punct.: 3.68978
+Average processing time per tuple (us): 107.368
+********************************PLQ worker 32********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 17********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 45********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 46********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 31********************************
+Received tuples: 458617
+Received punctuations: 337
+Average deque size: 1.93175
+Average pane instances closed per punct.: 3.71667
+Average processing time per tuple (us): 106.613
+********************************PLQ worker 23********************************
+Received tuples: 834435
+Received punctuations: 390
+Average deque size: 1.58205
+Average pane instances closed per punct.: 4.59036
+Average processing time per tuple (us): 106.726
+********************************PLQ worker 13********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 21********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 47********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 48********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 55********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 19********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 35********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 29********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 1********************************
+Received tuples: 724791
+Received punctuations: 470
+Average deque size: 1.57021
+Average pane instances closed per punct.: 3.92473
+Average processing time per tuple (us): 110.526
+********************************PLQ worker 14********************************
+Received tuples: 26675
+Received punctuations: 43
+Average deque size: 0.302326
+Average pane instances closed per punct.: 1.25
+Average processing time per tuple (us): 114.787
+********************************PLQ worker 52********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 8********************************
+Received tuples: 43927
+Received punctuations: 79
+Average deque size: 0.253165
+Average pane instances closed per punct.: 1.33333
+Average processing time per tuple (us): 117.235
+********************************PLQ worker 42********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 15********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 28********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 25********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 50********************************
+Received tuples: 8846
+Received punctuations: 18
+Average deque size: 0.222222
+Average pane instances closed per punct.: 1
+Average processing time per tuple (us): 110.357
+********************************PLQ worker 54********************************
+Received tuples: 0
+Received punctuations: 0
+Average deque size: 0
+Average pane instances closed per punct.: 0
+Average processing time per tuple (us): 0
+********************************PLQ worker 16********************************
+Received tuples: 113298
+Received punctuations: 126
+Average deque size: 0.468254
+Average pane instances closed per punct.: 1.80769
+Average processing time per tuple (us): 118.75
+********************************PLQ worker 12********************************
+Received tuples: 31554
+Received punctuations: 47
+Average deque size: 0.382979
+Average pane instances closed per punct.: 1.09091
+Average processing time per tuple (us): 116.621
+********************************PLQ worker 40********************************
+Received tuples: 13403
+Received punctuations: 22
+Average deque size: 0.227273
+Average pane instances closed per punct.: 1
+Average processing time per tuple (us): 105.467
+********************************PLQ worker 39********************************
+Received tuples: 15718
+Received punctuations: 22
+Average deque size: 0.227273
+Average pane instances closed per punct.: 1
+Average processing time per tuple (us): 116.249

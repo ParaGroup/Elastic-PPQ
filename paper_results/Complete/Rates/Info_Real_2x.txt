@@ -1,0 +1,35 @@
+Game1
+Number of tuples read: 7122060
+Number of late arrivals: 5940703
+Maximum delay (sec): 71.0733
+Avg. delay (usec): 17067.4
+Mean inter-arrival time: 59.0913 usec
+Mean arrival rate: 16923 tuples/sec
+Estimated index of dispersion: 7084.98
+
+Game2
+Number of tuples read: 4022600
+Number of late arrivals: 3493068
+Maximum delay (sec): 85.4796
+Avg. delay (usec): 14803.3
+Mean inter-arrival time: 51.8878 usec
+Mean arrival rate: 19272.4 tuples/sec
+Estimated index of dispersion: 517.016
+
+Game3
+Number of tuples read: 12643530
+Number of late arrivals: 10668001
+Maximum delay (sec): 38.2997
+Avg. delay (usec): 13194.4
+Mean inter-arrival time: 57.2403 usec
+Mean arrival rate: 17470.2 tuples/sec
+Estimated index of dispersion: 4205.33
+
+Game4
+Number of tuples read: 7670430
+Number of late arrivals: 6663307
+Maximum delay (sec): 27.181
+Avg. delay (usec): 12178.4
+Mean inter-arrival time: 43.2784 usec
+Mean arrival rate: 23106.2 tuples/sec
+Estimated index of dispersion: 256.084

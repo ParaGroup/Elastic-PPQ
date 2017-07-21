@@ -1,0 +1,63 @@
+The frequency of the CPU is 1300 Mhz
+Insert the PLQ utilization factor setpoint [close to 1]: Chosen setpoint is: 0.7
+Window parameters [wp: 5; sp: 1; pane length: 200 ms], dimensions per tuple: 8
+Starting pipeline (Skyline Query)...
+Connection from Generator: OK
+[CLIENT] Time:    0.00, Started!
+   |-->[CONTROLLER] Time:   10.00, control step [  0], PLQ [rho: [31m  4.68[0m, split: [1m[33m1.00[0m], WLQ [rho: [31m  2.77[0m, p_tasks:   25, idle_ratio: 0.29] -- PLQ Workers [1->2] ADDED 1 workers -- WLQ Workers [1->2] ADDED 1 workers 
+[CLIENT] Time:   11.70, recv wins [[36m  2[0m], results (x win) [avg:  6100.50; std:    48.50], latency [avg:   9627268.13 us]
+   |-->[CONTROLLER] Time:   20.01, control step [  1], PLQ [rho: [31m  3.51[0m, split: [1m[33m1.09[0m], WLQ [rho: [31m  5.91[0m, p_tasks:  133, idle_ratio: 0.04] -- PLQ Workers [2->3] ADDED 1 workers -- WLQ Workers [2->3] ADDED 1 workers 
+[CLIENT] Time:   21.75, recv wins [[36m  5[0m], results (x win) [avg:  5632.40; std:    62.93], latency [avg:  17591942.56 us]
+   |-->[CONTROLLER] Time:   30.01, control step [  2], PLQ [rho: [31m  2.17[0m, split: [1m[33m1.17[0m], WLQ [rho: [31m  9.08[0m, p_tasks:  319, idle_ratio: 0.04] -- PLQ Workers [3->4] ADDED 1 workers -- WLQ Workers [3->5] ADDED 2 workers 
+[CLIENT] Time:   33.52, recv wins [[36m  9[0m], results (x win) [avg:  5686.89; std:   291.81], latency [avg:  26910654.13 us]
+   |-->[CONTROLLER] Time:   40.01, control step [  3], PLQ [rho: [31m  1.87[0m, split: [1m[33m2.33[0m], WLQ [rho: [31m  8.20[0m, p_tasks:  522, idle_ratio: 0.03] -- PLQ Workers [4->5] ADDED 1 workers -- WLQ Workers [5->8] ADDED 3 workers 
+[CLIENT] Time:   44.59, recv wins [[36m 15[0m], results (x win) [avg:  5525.87; std:   327.16], latency [avg:  34518190.13 us]
+   |-->[CONTROLLER] Time:   50.02, control step [  4], PLQ [rho: [31m  1.04[0m, split: [1m[33m3.06[0m], WLQ [rho: [31m 18.37[0m, p_tasks: 1954, idle_ratio: 0.11] -- PLQ Workers [5] -- WLQ Workers [8->12] ADDED 4 workers 
+[CLIENT] Time:   55.20, recv wins [[36m 24[0m], results (x win) [avg:  5563.00; std:   253.33], latency [avg:  42059444.80 us]
+   |-->[CONTROLLER] Time:   60.02, control step [  5], PLQ [rho: [1m[32m  0.19[0m, split: [1m[33m4.89[0m], WLQ [rho: [31m 17.14[0m, p_tasks: 2887, idle_ratio: 0.09] -- PLQ Workers [5->3] REMOVED 2 workers -- WLQ Workers [12->18] ADDED 6 workers 
+[CLIENT] Time:   65.25, recv wins [[36m 42[0m], results (x win) [avg:  5489.52; std:   342.71], latency [avg:  46506832.85 us]
+   |-->[CONTROLLER] Time:   70.02, control step [  6], PLQ [rho: [1m[32m  0.62[0m, split: [1m[33m2.04[0m], WLQ [rho: [31m  8.64[0m, p_tasks: 3047, idle_ratio: 0.01] -- PLQ Workers [3->2] REMOVED 1 workers -- WLQ Workers [18->27] ADDED 9 workers 
+[CLIENT] Time:   76.20, recv wins [[36m 75[0m], results (x win) [avg:  4833.36; std:   604.54], latency [avg:  44768463.93 us]
+   |-->[CONTROLLER] Time:   80.02, control step [  7], PLQ [rho: [31m  1.06[0m, split: [1m[33m2.02[0m], WLQ [rho: [31m  3.94[0m, p_tasks: 2601, idle_ratio: 0.02] -- PLQ Workers [2] -- WLQ Workers [27->41] ADDED 14 workers 
+[CLIENT] Time:   86.97, recv wins [[36m 81[0m], results (x win) [avg:  4989.91; std:   328.76], latency [avg:  39860289.93 us]
+   |-->[CONTROLLER] Time:   90.03, control step [  8], PLQ [rho: [1m[32m  0.90[0m, split: [1m[33m2.00[0m], WLQ [rho: [31m  1.71[0m, p_tasks: 1322, idle_ratio: 0.02] -- PLQ Workers [2] -- WLQ Workers [41->57] ADDED 16 workers 
+[CLIENT] Time:   97.06, recv wins [[36m119[0m], results (x win) [avg:  5012.85; std:   692.87], latency [avg:  31689586.21 us]
+   |-->[CONTROLLER] Time:  100.03, control step [  9], PLQ [rho: [1m[32m  0.91[0m, split: [1m[33m2.00[0m], WLQ [rho: [31m  1.22[0m, p_tasks:  378, idle_ratio: 0.04] -- PLQ Workers [2->1] REMOVED 1 workers -- WLQ Workers [57->58] ADDED 1 workers 
+[CLIENT] Time:  107.22, recv wins [[36m129[0m], results (x win) [avg:  5089.95; std:   388.93], latency [avg:  14996746.67 us]
+   |-->[CONTROLLER] Time:  110.03, control step [ 10], PLQ [rho: [31m  3.25[0m, split: [1m[33m1.08[0m], WLQ [rho: [1m[32m  0.38[0m, p_tasks:    0, idle_ratio: 0.60] -- PLQ Workers [1] -- WLQ Workers [58->44] REMOVED 14 workers 
+[CLIENT] Time:  119.12, recv wins [[36m 17[0m], results (x win) [avg:  5485.76; std:   210.52], latency [avg:  11457281.55 us]
+   |-->[CONTROLLER] Time:  120.04, control step [ 11], PLQ [rho: [31m  3.24[0m, split: [1m[33m1.00[0m], WLQ [rho: [1m[32m  0.17[0m, p_tasks:    0, idle_ratio: 0.89] -- PLQ Workers [1->2] ADDED 1 workers -- WLQ Workers [44->33] REMOVED 11 workers 
+   |-->[CONTROLLER] Time:  130.04, control step [ 12], PLQ [rho: [31m  3.54[0m, split: [1m[33m1.07[0m], WLQ [rho: [1m[32m  0.21[0m, p_tasks:   18, idle_ratio: 0.86] -- PLQ Workers [2->3] ADDED 1 workers -- WLQ Workers [33->25] REMOVED 8 workers 
+[CLIENT] Time:  131.90, recv wins [[36m 22[0m], results (x win) [avg:  4974.64; std:   310.25], latency [avg:  19428044.62 us]
+   |-->[CONTROLLER] Time:  140.04, control step [ 13], PLQ [rho: [31m  2.57[0m, split: [1m[33m1.16[0m], WLQ [rho: [1m[32m  0.49[0m, p_tasks:    0, idle_ratio: 0.50] -- PLQ Workers [3->5] ADDED 2 workers -- WLQ Workers [25->19] REMOVED 6 workers 
+[CLIENT] Time:  141.91, recv wins [[36m 16[0m], results (x win) [avg:  5306.56; std:   511.88], latency [avg:  27969708.79 us]
+   |-->[CONTROLLER] Time:  150.05, control step [ 14], PLQ [rho: [1m[32m  0.98[0m, split: [1m[33m2.04[0m], WLQ [rho: [31m  1.64[0m, p_tasks:  280, idle_ratio: 0.09] -- PLQ Workers [5] -- WLQ Workers [19->29] ADDED 10 workers 
+[CLIENT] Time:  153.96, recv wins [[36m 16[0m], results (x win) [avg:  5372.31; std:   327.74], latency [avg:  35779948.12 us]
+   |-->[CONTROLLER] Time:  160.06, control step [ 15], PLQ [rho: [1m[32m  0.63[0m, split: [1m[33m2.81[0m], WLQ [rho: [31m  2.03[0m, p_tasks:  700, idle_ratio: 0.02] -- PLQ Workers [5->3] REMOVED 2 workers -- WLQ Workers [29->44] ADDED 15 workers 
+[CLIENT] Time:  165.20, recv wins [[36m 21[0m], results (x win) [avg:  5340.95; std:   251.67], latency [avg:  44410169.24 us]
+   |-->[CONTROLLER] Time:  170.06, control step [ 16], PLQ [rho: [1m[32m  0.66[0m, split: [1m[33m2.72[0m], WLQ [rho: [31m  1.01[0m, p_tasks:   96, idle_ratio: 0.06] -- PLQ Workers [3] -- WLQ Workers [44->51] ADDED 7 workers 
+[CLIENT] Time:  175.57, recv wins [[36m269[0m], results (x win) [avg:  5069.18; std:   405.24], latency [avg:  23965695.39 us]
+   |-->[CONTROLLER] Time:  180.06, control step [ 17], PLQ [rho: [1m[32m  0.36[0m, split: [1m[33m3.00[0m], WLQ [rho: [1m[32m  0.38[0m, p_tasks:    0, idle_ratio: 0.62] -- PLQ Workers [3->2] REMOVED 1 workers -- WLQ Workers [51->26] REMOVED 25 workers 
+[CLIENT] Time:  185.83, recv wins [[36m 49[0m], results (x win) [avg:  4832.39; std:   503.82], latency [avg:   4043563.34 us]
+   |-->[CONTROLLER] Time:  190.07, control step [ 18], PLQ [rho: [1m[32m  0.91[0m, split: [1m[33m2.16[0m], WLQ [rho: [1m[32m  0.63[0m, p_tasks:   78, idle_ratio: 0.50] -- PLQ Workers [2] -- WLQ Workers [26->18] REMOVED 8 workers 
+[CLIENT] Time:  195.95, recv wins [[36m 36[0m], results (x win) [avg:  5267.86; std:   452.04], latency [avg:   6214515.69 us]
+[CLIENT] Time:  198.47, recv wins [[36m 10[0m], results (win) [avg:  5603.10; std:   358.20], latency [avg:   8134804.78 us]
+********************************PLQ statistics********************************
+Dropped: 204505/4022600 tuples
+Average splitting factor: 2.02914
+No. of punctuations transmitted: 8611
+******************************************************************************
+*****************************Controller statistics****************************
+No. of reconfigurations: 19
+Average utilization factor (PLQ): 1.74108
+Average no. of PLQ workers: 2.84211
+Average utilization factor (WLQ): 4.41796
+Average no. of WLQ workers: 26.4737
+******************************************************************************
+*******************************Final statistics*******************************
+Received: 4.82194 wins/sec, total 957 wins
+Average latency per window: 26799 ms
+Average no. of results per window: 5109.84
+******************************************************************************
+...done
+Consumed joules are: 18138.20
