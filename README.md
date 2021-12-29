@@ -5,9 +5,21 @@ This framework is an extension of BT-PPQ. In addition to burst-tolerant scheduli
 
 The code requires FastFlow 2.1 (http://calvados.di.unipi.it/) and FuzzyLite 5 (http://www.fuzzylite.com/cpp/).
 
-# Contributors
-Elastic-PPQ has been developed by [Gabriele Mencagli](mailto:mencagli@di.unipi.it).
-
-
+# How to Cite
 If our work is useful for your research, please cite the following paper:
- - G. Mencagli, M. Torquati and M. Danelutto. Elastic-PPQ: a Two-level Autonomic System for Spatial Preference Query Processing over Dynamic Data Streams. Future Generation Computer Systems, Volume 79, Part 3, 862-877, 2018, Elsevier. ISSN: 0167-739X, DOI: https://doi.org/10.1016/j.future.2017.09.00
+```
+@article{MENCAGLI2018862,
+ title = {Elastic-PPQ: A two-level autonomic system for spatial preference query processing over dynamic data streams},
+ journal = {Future Generation Computer Systems},
+ volume = {79},
+ pages = {862-877},
+ year = {2018},
+ issn = {0167-739X},
+ doi = {https://doi.org/10.1016/j.future.2017.09.004},
+ url = {https://www.sciencedirect.com/science/article/pii/S0167739X1730938X},
+ author = {Gabriele Mencagli and Massimo Torquati and Marco Danelutto},
+}
+```
+
+# Contributors
+Elastic-PPQ has been developed by [Gabriele Mencagli](mailto:gabriele.mencagli@di.unipi.it).
