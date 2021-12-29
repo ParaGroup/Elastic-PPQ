@@ -5,7 +5,7 @@ This framework is an extension of BT-PPQ. In addition to burst-tolerant scheduli
 
 The code requires FastFlow 2.1 (http://calvados.di.unipi.it/) and FuzzyLite 5 (http://www.fuzzylite.com/cpp/).
 
-# How to Cite
+## How to Cite
 If our work is useful for your research, please cite the following paper:
 ```
 @article{MENCAGLI2018862,
@@ -21,5 +21,5 @@ If our work is useful for your research, please cite the following paper:
 }
 ```
 
-# Contributors
+## Contributors
 Elastic-PPQ has been developed by [Gabriele Mencagli](mailto:gabriele.mencagli@di.unipi.it).
